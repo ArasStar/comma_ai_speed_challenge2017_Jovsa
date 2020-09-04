@@ -1,6 +1,6 @@
 # CommaAI Speed Challenge2017 - TensorFlow solution 
 
-The data should be available through Comaai's twitter post : https://twitter.com/comma_ai/status/913196051292499968?lang=en
+The data for the challenge should be available through Comaai's twitter post : https://twitter.com/comma_ai/status/913196051292499968?lang=en
 
 The preprocessing of the data, architeture of the model and the training scheme is majorly inspired from the articles:
 -https://medium.com/weightsandbiases/predicting-vehicle-speed-from-dashcam-video-f6158054f6fd        
