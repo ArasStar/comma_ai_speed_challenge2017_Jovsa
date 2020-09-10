@@ -7,7 +7,7 @@ The preprocessing of the data, architeture of the model and the training scheme 
 -https://github.com/JonathanCMitchell                                         
 -https://arxiv.org/pdf/1604.07316v1.pdf
 
-This project provides a containerized setup with the help of Docker tool so that any user could run and do experiments without the complexations coming from numerous version compatability issues. To be able to build and run the given docker image only needed components are:                                             
+This project provides a containerized setup with the help of Docker tool so that any user could run and do experiments without the complexions coming from numerous version compatability issues. To be able to build and run the given docker image only needed components are:                                             
 -machine that has Ubuntu Kernel                                                                                                     
 -Nvidia drivercompatable with CUDA 8
 
